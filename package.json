@@ -1,0 +1,11 @@
+{
+  "name": "calendarweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Stephen10121/calendarweb.git",
+  "author": "Stephen Gruzin <stephengrzn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
