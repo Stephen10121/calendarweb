@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.a125c304.chunk.js",
-    "app.js.map": "/static/js/app.a125c304.chunk.js.map",
+    "app.js": "/static/js/app.a2eabf47.chunk.js",
+    "app.js.map": "/static/js/app.a2eabf47.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.27401809.js",
     "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.74266e5e.chunk.js": "/static/js/2.74266e5e.chunk.js",
-    "static/js/2.74266e5e.chunk.js.map": "/static/js/2.74266e5e.chunk.js.map",
+    "static/js/2.9a1e443a.chunk.js": "/static/js/2.9a1e443a.chunk.js",
+    "static/js/2.9a1e443a.chunk.js.map": "/static/js/2.9a1e443a.chunk.js.map",
     "fonts/Poppins-SemiBold.ttf": "/./fonts/Poppins-SemiBold.ttf",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
@@ -13,7 +13,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.74266e5e.chunk.js.LICENSE.txt": "/static/js/2.74266e5e.chunk.js.LICENSE.txt",
+    "static/js/2.9a1e443a.chunk.js.LICENSE.txt": "/static/js/2.9a1e443a.chunk.js.LICENSE.txt",
     "static/media/addjob.png": "/static/media/addjob.cd45d7bb.png",
     "static/media/calendar.png": "/static/media/calendar.6398b164.png",
     "static/media/google.png": "/static/media/google.9db27c10.png",
@@ -25,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.27401809.js",
-    "static/js/2.74266e5e.chunk.js",
-    "static/js/app.a125c304.chunk.js"
+    "static/js/2.9a1e443a.chunk.js",
+    "static/js/app.a2eabf47.chunk.js"
   ]
 }
